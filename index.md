@@ -47,6 +47,6 @@ My top 3 foods in life are:
 3. Pasta
    
 Plans to tackle tomorrow
-- [ ] Clean my room
+- [X] Clean my room
 - [ ] Read ten chapters of Meditations
 - [ ] Run at the gym
