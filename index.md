@@ -10,10 +10,10 @@
 
 
 
-This is a cute dog pic!
+### This is a cute dog pic!
 ![Favorite Dog Pic](dog.jpg)
 
-This is my favorite color
+### This is my favorite color
 ![Favorite Color](blue.jpg)
 
 
@@ -28,7 +28,7 @@ print("Hello World!")
 ```
 
 
-~I wonder what this does in markdown!~
+~~I wonder what this does in markdown!~~
 ### Joshua's Most used website:
 [Google](https://www.google.com/)
 
@@ -47,6 +47,6 @@ My top 3 foods in life are:
 3. Pasta
    
 Plans to tackle tomorrow
-- [ ] Clean my room
+- [X] Clean my room
 - [ ] Read ten chapters of Meditations
 - [ ] Run at the gym
