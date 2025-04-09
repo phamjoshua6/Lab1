@@ -1,4 +1,4 @@
-#Joshua Pham
+# Joshua Pham
 **CS Major in Sixth College**
 
 
@@ -10,9 +10,11 @@
 
 
 
-
+This is a cute dog pic!
 ![Favorite Dog Pic](dog.jpg)
-![Favoite Color](blue.jpg)
+
+This is my favorite color
+![Favorite Color](blue.jpg)
 
 
 
@@ -20,14 +22,14 @@
 
 >Legends Never Die
 
-Joshua's First line of code (ever):
+### Joshua's First line of code (ever):
 ```
 print("Hello World!")
 ```
 
 
 ~I wonder what this does in markdown!~
-Joshua's Most used website:
+### Joshua's Most used website:
 [Google](https://www.google.com/)
 
 [If you're curious how my day went, click this!](diary.md)
@@ -44,7 +46,7 @@ My top 3 foods in life are:
 2. Cheeseburgers
 3. Pasta
    
-Plans to tackle tommorow
+Plans to tackle tomorrow
 - [ ] Clean my room
 - [ ] Read ten chapters of Meditations
 - [ ] Run at the gym
