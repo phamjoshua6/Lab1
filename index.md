@@ -10,10 +10,10 @@
 
 
 
-This is a cute dog pic!
+### This is a cute dog pic!
 ![Favorite Dog Pic](dog.jpg)
 
-This is my favorite color
+### This is my favorite color
 ![Favorite Color](blue.jpg)
 
 
@@ -28,7 +28,7 @@ print("Hello World!")
 ```
 
 
-~I wonder what this does in markdown!~
+~~I wonder what this does in markdown!~~
 ### Joshua's Most used website:
 [Google](https://www.google.com/)
 
